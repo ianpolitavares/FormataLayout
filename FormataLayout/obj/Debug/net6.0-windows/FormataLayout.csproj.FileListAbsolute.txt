@@ -1,0 +1,16 @@
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\bin\Debug\net6.0-windows\FormataLayout.exe
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\bin\Debug\net6.0-windows\FormataLayout.deps.json
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\bin\Debug\net6.0-windows\FormataLayout.runtimeconfig.json
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\bin\Debug\net6.0-windows\FormataLayout.dll
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\bin\Debug\net6.0-windows\FormataLayout.pdb
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.Form1.resources
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.csproj.GenerateResource.cache
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.AssemblyInfoInputs.cache
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.AssemblyInfo.cs
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.csproj.CoreCompileInputs.cache
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.dll
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\refint\FormataLayout.dll
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.pdb
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\FormataLayout.genruntimeconfig.cache
+C:\Users\ianpo\source\repos\FormataLayout\FormataLayout\obj\Debug\net6.0-windows\ref\FormataLayout.dll
